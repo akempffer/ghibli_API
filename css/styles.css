@@ -1,0 +1,93 @@
+/* My Awesome Styles */
+
+#app {
+    display: flex;
+    flex-flow: row wrap; 
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .movie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #c9ffe2;
+    opacity: 0.7;
+    height: 100%;
+    width: 40%;
+    padding: 2em;
+    margin-top: 10%;
+    border-radius: 5%;
+    margin: 15px;
+  }
+  
+  .title{
+    font-weight: bold;
+    font-size: 2.5em;
+    font-family: garamond;
+  }
+  
+  .year{
+    padding: 5px 10px 10px 5px;
+    font-size: 1.5em;
+    font-family: garamond;
+    font-weight: bold;
+  }
+  
+  .description{
+    padding: 10px 0px;
+    font-family: arial;
+    text-align: center;
+  }
+  
+  .bg0{ background:url('https://external-preview.redd.it/XrKAtHHf1Ifc54L2Uwjx3J5G-mjkq6VfvhukkJwxu9s.jpg?auto=webp&s=41ca46bdea275ecd059aadd56f851e6f265f4485');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .bg1 { background:url('https://www.imgbase.info/images/safe-wallpapers/anime/anime_scenery/46547_anime_scenery_studio_ghibli_anime_landscapes.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+  }
+  
+  .bg2 { background:url('http://images6.fanpop.com/image/photos/41400000/Kiki-s-Delivery-Service-Background-Art-studio-ghibli-41475714-1280-729.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .bg3 { background:url('https://thewallpaper.co//wp-content/uploads/2016/10/free-studio-ghibli-hd-backgrounds-for-desktop-windows-10-backgrounds-amazing-colourful-4k-download-wallpapers-hi-res-best-colours-2560x1440.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .bg4 { background:url('https://i.pinimg.com/originals/0b/cd/32/0bcd3269bce2fb399b2b14d2e2c760e5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .bg5 { background:url('https://wallpaperaccess.com/full/42644.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .bg6 { background:url('https://66.media.tumblr.com/acaa2581fb42ae4c9dceb5fc98885065/tumblr_n3fh1vIPfK1to44gko9_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .bg7 { background:url('https://66.media.tumblr.com/tumblr_m8j0z7dIme1rdnwxgo1_1280.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
